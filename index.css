@@ -16,3 +16,65 @@ h1{
     text-align:center;
 }
 
+.container{
+    display: flex;
+    margin-left: 30%;
+    padding:20px;
+    gap: 50px;
+    font-size: 25px;
+    /* background-color: #fff; */
+}
+
+.Card1{
+    border-radius: 5px;
+    background-color:rgb(199, 200, 202);
+    color:black;
+    text-align: justify;
+    /* padding:30px ; */
+    text-size-adjust: 10px;
+    font-size: 20px;
+}
+.Card1 h2{
+    text-align: center;
+    color:grey;
+    font-size: 30px;
+    font-style: oblique;
+}
+
+.Card2{
+    background-color:rgb(199, 200, 202);
+    color: black;
+    text-align: left;
+    font-size: 20px;
+    border-radius: 5px;
+}
+.Card2 h2{
+    text-align:center;
+    color:grey;
+    font-size: 30px;
+    font-style: oblique;
+
+}
+
+/* .xcard {
+    display: flex;
+    gap: 50px;
+    margin-left: 550px;
+}
+
+.xcard .card {
+    padding: 30px;
+    border-radius: 10px;
+    background-color: #D9DCDD;
+}
+
+.card h3 {
+    font-size: 28px;
+    margin-top: 10px;
+    font-weight: bold;
+    text-align: center;
+    margin-bottom: -10px;
+    color: black;
+} */
+
+
