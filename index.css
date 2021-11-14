@@ -2,7 +2,7 @@ body{
     /* background-color:wheat; */
     background-image: url(zeynep-sumer-skh-CC9A77U-unsplash.jpg);
     background-size:cover;
-    color:yellowgreen;
+    color:white;
     font-size: 30px;
 }
 h1{
@@ -10,6 +10,9 @@ h1{
     color:white;
     font-size: 80px;
     text-align: center;
-
+    margin-top: 5px;
+}
+#Part1{
+    text-align:center;
 }
 
