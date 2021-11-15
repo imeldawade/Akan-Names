@@ -13,7 +13,7 @@ This website generally shows you your names in Akan, a ghananian culture.
 * JAVASCRIPT
 
 ## Project live link
-
+https://imeldawade.github.io/Week-2-project/
 
 ## License
 An agreement is hereby entered into between the software development team and the software users.
