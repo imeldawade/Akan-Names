@@ -29,8 +29,8 @@ h1{
 
 .Card1{
     border-radius: 5px;
-    background-color:white;
-    color:black;
+    background-color:black;
+    color:white;
     text-align: justify;
     /* padding:30px ; */
     text-size-adjust: 10px;
@@ -38,21 +38,19 @@ h1{
 }
 .Card1 h2{
     text-align: center;
-    color:green;
     font-size: 30px;
     font-style: oblique;
 }
 
 .Card2{
     background-color:black;
-    color:green;
+    color:white;
     text-align: left;
     font-size: 20px;
     border-radius: 5px;
 }
 .Card2 h2{
     text-align:center;
-    color:green;
     font-size: 30px;
     font-style: oblique;
 
@@ -69,7 +67,12 @@ h1{
 h3{
     text-align: center;
     font-style: italic;
-    color:rgb(9, 10, 10);
+    color:white;
     font-size: 200%;
+    background-color: black;
+    margin-left: 30%;
+    margin-right: 30%;
+    padding: 1%;
+    border-radius: 50%;
 
 }
