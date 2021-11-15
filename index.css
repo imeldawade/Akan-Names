@@ -1,9 +1,10 @@
 body{
-    /* background-color:wheat; */
-    background-image: url(zeynep-sumer-skh-CC9A77U-unsplash.jpg);
-    background-size:cover;
+    background-color:grey;
+    /* background-image: url(zeynep-sumer-skh-CC9A77U-unsplash.jpg);
+    background-size:cover; */
     color:white;
-    font-size: 30px;
+    font-size: 20px;
+    font-style: italic;
 }
 h1{
     font-style:italic;
@@ -58,8 +59,8 @@ h1{
 .Details{
     text-align: center;
     border-radius: 5px;
-    background-color: grey;
-    margin-left: 30%;
+    background-color: black;
+    margin-left: 35%;
     text-align: left;
     padding: 20px;
     margin-right: 30%;
@@ -67,27 +68,7 @@ h1{
 h3{
     text-align: center;
     font-style: italic;
-    color: black;
+    color:rgb(9, 10, 10);
+    font-size: 200%;
+
 }
-/* .xcard {
-    display: flex;
-    gap: 50px;
-    margin-left: 550px;
-}
-
-.xcard .card {
-    padding: 30px;
-    border-radius: 10px;
-    background-color: #D9DCDD;
-}
-
-.card h3 {
-    font-size: 28px;
-    margin-top: 10px;
-    font-weight: bold;
-    text-align: center;
-    margin-bottom: -10px;
-    color: black;
-} */
-
-
